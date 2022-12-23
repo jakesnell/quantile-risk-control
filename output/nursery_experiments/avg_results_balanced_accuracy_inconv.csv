@@ -1,0 +1,5 @@
+method,quantile_loss,mean_in_quantile_loss,mean_in_quantile_pred_size,quantile_satisfied,mean_alpha,quantile_alpha,oracle_var,oracle_quantile_set_size
+DKW,0.125,0.09375,1.75,1.0,,0.125,0.125,1.8344444036483765
+OrderStats,0.125,0.09986110776662827,1.798888921737671,1.0,,0.125,0.125,1.8344444036483765
+RcpsBinomial,0.125,0.09986110776662827,1.798888921737671,1.0,,0.125,0.125,1.8344444036483765
+VarControl,0.125,0.09375,1.75,1.0,,0.125,0.125,1.8344444036483765
