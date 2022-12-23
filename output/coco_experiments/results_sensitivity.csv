@@ -1,4 +1,0 @@
-,trial,method,quantile_loss,mean_in_quantile_loss,mean_in_quantile_pred_size,quantile_satisfied
-0,1,DKW,0.0,0.0,17.5766658782959,True
-1,1,OrderStats,0.0,0.0,11.015555381774902,True
-2,1,RcpsHB,0.0,0.0,21.47333335876465,True

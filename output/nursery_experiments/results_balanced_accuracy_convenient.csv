@@ -1,5 +1,0 @@
-,trial,method,quantile_loss,mean_in_quantile_loss,mean_in_quantile_pred_size,quantile_satisfied,mean_alpha,quantile_alpha
-0,1,VarControl,0.125,0.09236110746860504,1.7388888597488403,True,,0.125
-1,1,RcpsBinomial,0.125,0.09805555641651154,1.7844444513320923,True,,0.125
-2,1,DKW,0.125,0.09236110746860504,1.7388888597488403,True,,0.125
-3,1,OrderStats,0.125,0.09805555641651154,1.7844444513320923,True,,0.125
